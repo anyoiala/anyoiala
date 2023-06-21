@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @anyoiala
-opa 
+opa
+![](https://br.depositphotos.com/stock-photos/pato.html)
 
 <!---
 anyoiala/anyoiala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
