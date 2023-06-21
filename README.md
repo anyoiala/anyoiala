@@ -1,3 +1,4 @@
  eu @anyoiala
  
-:smiley_cat::thought_balloon: :pray:
+:smiley_cat::thought_balloon:
+
